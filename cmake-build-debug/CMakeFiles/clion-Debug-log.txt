@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\Sri Chaitanya\Desktop\KGP\Rubiks Cube Solver Select CMakeLists.txt
